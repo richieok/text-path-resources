@@ -1,0 +1,91 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" id="svg" width="945"
+            height="450" viewBox="0 0 630 300" version="1.1">
+            <defs id="defs1">
+                <linearGradient id="linearGradient7">
+                    <stop id="stop8" offset=".168" style="stop-color:#8d430f;stop-opacity:.95367849" />
+                    <stop id="stop7" offset=".746" style="stop-color:#2b130b;stop-opacity:1" />
+                </linearGradient>
+                <linearGradient id="linearGradient5">
+                    <stop id="stop5" offset="0" style="stop-color:#0cb505;stop-opacity:1" />
+                    <stop id="stop6" offset="1" style="stop-color:#0b7c04;stop-opacity:.99827588" />
+                </linearGradient>
+                <linearGradient xlink:href="#linearGradient5" id="linearGradient6" x1="0" x2="630" y1="281.991"
+                    y2="281.991" gradientUnits="userSpaceOnUse" />
+                <linearGradient xlink:href="#linearGradient7" id="linearGradient8" x1="76.515" x2="605.396" y1="208.88"
+                    y2="208.88" gradientUnits="userSpaceOnUse" />
+                <pattern xlink:href="#Polkadots-large" id="pattern5" patternTransform="scale(10)"
+                    preserveAspectRatio="xMidYMid" />
+                <pattern id="Polkadots-large" width="10" height="10" patternTransform="scale(10)"
+                    patternUnits="userSpaceOnUse" preserveAspectRatio="xMidYMid">
+                    <circle id="circle584" cx="2.567" cy=".81" r=".45" style="stroke:none" />
+                    <circle id="circle586" cx="3.048" cy="2.33" r=".45" style="stroke:none" />
+                    <circle id="circle588" cx="4.418" cy="2.415" r=".45" style="stroke:none" />
+                    <circle id="circle590" cx="1.844" cy="3.029" r=".45" style="stroke:none" />
+                    <circle id="circle592" cx="6.08" cy="1.363" r=".45" style="stroke:none" />
+                    <circle id="circle594" cx="5.819" cy="4.413" r=".45" style="stroke:none" />
+                    <circle id="circle596" cx="4.305" cy="4.048" r=".45" style="stroke:none" />
+                    <circle id="circle598" cx="5.541" cy="3.045" r=".45" style="stroke:none" />
+                    <circle id="circle600" cx="4.785" cy="5.527" r=".45" style="stroke:none" />
+                    <circle id="circle602" cx="2.667" cy="5.184" r=".45" style="stroke:none" />
+                    <circle id="circle604" cx="7.965" cy="1.448" r=".45" style="stroke:none" />
+                    <circle id="circle606" cx="7.047" cy="5.049" r=".45" style="stroke:none" />
+                    <circle id="circle608" cx="4.34" cy=".895" r=".45" style="stroke:none" />
+                    <circle id="circle610" cx="7.125" cy=".34" r=".45" style="stroke:none" />
+                    <circle id="circle612" cx="7.125" cy="10.34" r=".45" style="stroke:none" />
+                    <circle id="circle614" cx="9.55" cy="1.049" r=".45" style="stroke:none" />
+                    <circle id="circle616" cx="7.006" cy="2.689" r=".45" style="stroke:none" />
+                    <circle id="circle618" cx="8.909" cy="2.689" r=".45" style="stroke:none" />
+                    <circle id="circle620" cx="9.315" cy="4.407" r=".45" style="stroke:none" />
+                    <circle id="circle622" cx="7.82" cy="3.87" r=".45" style="stroke:none" />
+                    <circle id="circle624" cx="8.27" cy="5.948" r=".45" style="stroke:none" />
+                    <circle id="circle626" cx="7.973" cy="7.428" r=".45" style="stroke:none" />
+                    <circle id="circle628" cx="9.342" cy="8.072" r=".45" style="stroke:none" />
+                    <circle id="circle630" cx="8.206" cy="9.315" r=".45" style="stroke:none" />
+                    <circle id="circle632" cx="9.682" cy="9.475" r=".45" style="stroke:none" />
+                    <circle id="circle634" cx="-.318" cy="9.475" r=".45" style="stroke:none" />
+                    <circle id="circle636" cx="9.688" cy="6.186" r=".45" style="stroke:none" />
+                    <circle id="circle638" cx="-.312" cy="6.186" r=".45" style="stroke:none" />
+                    <circle id="circle640" cx="3.379" cy="6.296" r=".45" style="stroke:none" />
+                    <circle id="circle642" cx="2.871" cy="8.204" r=".45" style="stroke:none" />
+                    <circle id="circle644" cx="4.59" cy="8.719" r=".45" style="stroke:none" />
+                    <circle id="circle646" cx="3.181" cy="9.671" r=".45" style="stroke:none" />
+                    <circle id="circle648" cx="3.181" cy="-.329" r=".45" style="stroke:none" />
+                    <circle id="circle650" cx="5.734" cy="7.315" r=".45" style="stroke:none" />
+                    <circle id="circle652" cx="6.707" cy="6.513" r=".45" style="stroke:none" />
+                    <circle id="circle654" cx="5.73" cy="9.67" r=".45" style="stroke:none" />
+                    <circle id="circle656" cx="5.73" cy="-.33" r=".45" style="stroke:none" />
+                    <circle id="circle658" cx="6.535" cy="8.373" r=".45" style="stroke:none" />
+                    <circle id="circle660" cx="4.37" cy="7.154" r=".45" style="stroke:none" />
+                    <circle id="circle662" cx=".622" cy="7.25" r=".45" style="stroke:none" />
+                    <circle id="circle664" cx=".831" cy="5.679" r=".45" style="stroke:none" />
+                    <circle id="circle666" cx="1.257" cy="8.519" r=".45" style="stroke:none" />
+                    <circle id="circle668" cx="1.989" cy="6.877" r=".45" style="stroke:none" />
+                    <circle id="circle670" cx=".374" cy="3.181" r=".45" style="stroke:none" />
+                    <circle id="circle672" cx="10.374" cy="3.181" r=".45" style="stroke:none" />
+                    <circle id="circle674" cx="1.166" cy="1.664" r=".45" style="stroke:none" />
+                    <circle id="circle676" cx="1.151" cy=".093" r=".45" style="stroke:none" />
+                    <circle id="circle678" cx="1.151" cy="10.093" r=".45" style="stroke:none" />
+                    <circle id="circle680" cx="1.302" cy="4.451" r=".45" style="stroke:none" />
+                    <circle id="circle682" cx="3.047" cy="3.763" r=".45" style="stroke:none" />
+                </pattern>
+            </defs>
+            <g id="layer1">
+                <path id="background" d="M0 0h630v300H0z"
+                    style="fill:#d18205;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke;fill-opacity:0" />
+                <path id="rect2" d="M0 263.982h630V300H0Z"
+                    style="fill:url(#linearGradient6);stroke-width:2;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke" />
+                <path id="rect3" d="M0 263.982h630V300H0Z"
+                    style="fill:url(#pattern5);stroke-width:2;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke" />
+                <path id="hill"
+                    d="M76.515 263.982s67.735-1.597 97.536-37.8c76.84-93.346 180.051-89.552 244.681-27.747 63.264 60.499 117.716 65.547 117.716 65.547"
+                    style="fill:url(#linearGradient8);stroke-width:2;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke" />
+            </g>
+            <text text-anchor="middle">
+                <textPath href="#hill" class="text" startOffset="50%">
+                    <tspan dy="-5">
+                        Jack and Jill went up the hill
+
+                    </tspan>
+                </textPath>
+            </text>
+        </svg>Ï
