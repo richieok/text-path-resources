@@ -1,1 +1,3 @@
-# text-path-resources
+# TEXT PATH RESOURCE FILES
+Ugly svg and CSS file
+
